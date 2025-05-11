@@ -47,7 +47,8 @@ while True:
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/92d6e6e6-7c21-4263-aad8-026726609716)
+![image](https://github.com/user-attachments/assets/03851ce1-681e-4e57-9a4c-90e4a43600db)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
